@@ -79,5 +79,5 @@
 <div align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="cat typing" />
 
-  <h3>Construyendo, iterando y mejorando cada día 🚀</h3>
+  <h3>Construyendo y mejorando cada día</h3>
 </div>
