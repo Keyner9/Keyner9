@@ -1,5 +1,5 @@
 <div align="left">
-  <a href="https://deployando-portfolio.com" target="_blank">
+  <a href="https://keynerportfolio.tekit.com.co/" target="_blank">
     <img src="https://img.shields.io/badge/PORTAFOLIO-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
@@ -63,13 +63,13 @@
 ## 📫 Contacto
 
 <div align="center">
-  <a href="https://tu-portfolio.com" target="_blank">
+  <a href="https://keynerportfolio.tekit.com.co/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/tu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/keyner-perez-444ab9156/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tuemail@gmail.com" target="_blank">
+  <a href="mailto:keynerperez09@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
