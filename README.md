@@ -63,7 +63,7 @@
 ## 📫 Contacto
 
 <div align="center">
-  <a href="https://keynerportfolio.tekit.com.co/" target="_blank">
+  <a href="https://keynerportfolio.tekit.global/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/keyner-perez-444ab9156/" target="_blank">
